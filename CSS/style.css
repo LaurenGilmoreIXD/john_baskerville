@@ -4,52 +4,54 @@
     padding: 0;
     margin: 0;
     font-size: 100%;
-    line-height; lem;
+    line-height; 1em;
 }
 
-/*----main styling-----/
+/*----main styling-----*/
 body {
-   width: 80%;
+   width: 65%;
    max-width;700px;
    margin: auto;
    background:#E5E5D8;
-   color:#333;
+   color:#006767;
 }
 
 /*----TYPOGRAPHY-----*/
 h1, h2 {
     font-weight: normal;
-    color: ##230A59
-    text-align: centre;
+    text-align: center;
+    color: #150734
+    
 }
 
 p,blockquote{
     margin-bottom: 1.5em;
     line-height: 1.4;
+    
 }
 
 h1{
-    font-size: 3.827em;
-   margin-top: 3em;
-    margin-bottom: 0.1em;
+    font-size: 4em;
+   margin-top: 1em;
+    margin-bottom: 0.5em;
 }
 
 h2{
-    font-size: 1.999em;
-    margin-top: 3em;
-    margin-bottom: 0.1em;
+    font-size: 2em;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
 }
 
 blockquote {
-    font-size: 1.414;
-    color: ##230A59
+    font-size: 1.7em;
+    text-decoration-color: #150734
     hanging-punctuation: first;
     text-indent: -0.44em;
 }
 
 blockquote cite{
-    font-size: 0.75em;
-    color: #333
+    font-size: 0.70em;
+    color: #150734; 
 }
 
 header h2{
@@ -59,12 +61,67 @@ header h2{
 }
 
 header p{
-    font-size: 1.414em;
-    text-align: center;
+    font-size: 1.5em;
+    
+    
+/*----STYLING LINKS-----*/ 
+a {
+   color: #150734
+   text-decoration: none;
+}
+a:hover {
+color: #829FD9;
+   border-bottom: 1px dotted;
+
+}
+    
+/*---Navigation---*/
+"nav {
+        position: fixed
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 100%;
+        background-color: none;  
+        font-color: #006767
+        padding: 1em 0;
+        font-size: 1em;
+    }
+
+    nav ul {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 2px
+        
+    
+    }
+    
+    nav ul li {
+        display: inline;
+        margin: 20px;
+        background: #006767;
+        
+        
+    }
+    nav a: {
+    color: #ffffff
 }
 
+nav a:visited { 
+    color: #ffffff
+    
+}
+    
+nav a:hover {
+        border-bottom: none;
+        color:#829FD9
+    }
+
+
+/*----FOOTER----*/
 footer{
     text-align: center;
     font-size: 0.707em;
     padding: 4em 0 8em 0
+    margin: 5em 0 8em 0
 }
