@@ -77,13 +77,12 @@ color: #829FD9;
     
 /*---Navigation---*/
 "nav {
-        position: fixed
+        position: fixed;
         top: 0;
         left: 0;
         margin: 0;
         width: 100%;
         background-color: none;  
-        font-color: #006767
         padding: 1em 0;
         font-size: 1em;
     }
@@ -100,6 +99,7 @@ color: #829FD9;
         display: inline;
         margin: 20px;
         background: #006767;
+        
         
         
     }
@@ -122,6 +122,6 @@ nav a:hover {
 footer{
     text-align: center;
     font-size: 0.707em;
-    padding: 4em 0 8em 0
-    margin: 5em 0 8em 0
+    padding: 4em 0 8em 0;
+    margin: 5em 0 8em 0;
 }
