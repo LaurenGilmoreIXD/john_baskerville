@@ -66,8 +66,7 @@ header h2{
     margin-bottom; 1.5em;
 }
 
-header p{
-    font-size: 1.3em;
+
 
 
     
@@ -85,14 +84,14 @@ color: #829FD9;
 }
     
 /*---Navigation---*/
-"nav {
+nav {
         position: fixed;
         top: 0;
         left: 0;
         margin: 0;
         width: 100%;
         background-color: none;  
-        padding: 1em 0;
+        padding: 0.5em 0;
         font-size: 1em;
     }
 
