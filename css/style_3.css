@@ -1,0 +1,136 @@
+/*----CSS Reset----*/
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height; 1em;
+}
+
+/*----main styling-----*/
+body {
+   width: 50%;
+   max-width;700px;
+   margin: auto;
+   background:#E5E5D8;
+   color:#006767;
+   font-family: font-family: 'Lato', sans-serif;
+
+}
+
+p {
+    font-family: sans-serif;
+}
+
+/*----TYPOGRAPHY-----*/
+h1, h2 {
+    font-weight: normal;
+    text-align: center;
+    color: #150734
+    
+}
+
+p,blockquote{
+    margin-bottom: 1.5em;
+    line-height: 1.4;
+    
+}
+
+h1{
+    font-size: 4em;
+   margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+h2{
+    font-size: 2em;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+}
+
+blockquote {
+    font-size: 1.7em;
+    text-decoration-color: #150734
+    hanging-punctuation: first;
+    text-indent: -0.44em;
+}
+
+blockquote cite{
+    font-size: 0.70em;
+    color: #150734; 
+}
+
+header h2{
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom; 1.5em;
+}
+
+header p{
+    font-size: 1.3em;
+
+
+    
+
+    
+/*----STYLING LINKS-----*/ 
+a {
+   color: #150734
+   text-decoration: none;
+}
+a:hover {
+color: #829FD9;
+   border-bottom: 1px dotted;
+
+}
+    
+/*---Navigation---*/
+"nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 100%;
+        background-color: none;  
+        padding: 1em 0;
+        font-size: 1em;
+    }
+
+    nav ul {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 2px
+        
+    
+    }
+    
+    nav ul li {
+        display: inline;
+        margin: 20px;
+        background: #ffffff;
+        
+        
+        
+    }
+    nav a: {
+    color: #ffffff
+}
+
+nav a:visited { 
+    color: #ffffff
+    
+}
+    
+nav a:hover {
+        border-bottom: none;
+        color:#829FD9
+    }
+
+
+/*----FOOTER----*/
+footer{
+    text-align: center;
+    font-size: 0.707em;
+    padding: 4em 0 8em 0;
+    margin: 5em 0 8em 0;
+}
