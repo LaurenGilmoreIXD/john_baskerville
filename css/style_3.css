@@ -14,13 +14,10 @@ body {
    margin: auto;
    background:#E5E5D8;
    color:#006767;
-   font-family: font-family: 'Lato', sans-serif;
-
+   font-family: 'Libre Baskerville', serif;
 }
 
-p {
-    font-family: sans-serif;
-}
+
 
 /*----TYPOGRAPHY-----*/
 h1, h2 {
