@@ -9,7 +9,7 @@ Created first webpage marking up plain text as an HTML5 page
 Applied my first CSS styling to John_Baskerville.
 
 [Version 3](https://laurengilmoreixd.github.io/john_baskerville/baskerville_03.html)
-*19/11/2020*
+*19/11/2020* Added Google Fonts
 
 
 
