@@ -29,6 +29,5 @@ History of Type
 [Version 2](https://laurengilmoreixd.github.io/john_baskerville/brief_history_of_type02.html)
 *11/11/2020* Added CSS to Brief History of Type
 
-[Version 3]
-((https://laurengilmoreixd.github.io/john_baskerville/brief_history_of_type03.html)
+[Version 3](https://laurengilmoreixd.github.io/john_baskerville/brief_history_of_type03.html)
 *22/11/2020* Added Google Fonts
