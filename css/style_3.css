@@ -95,7 +95,7 @@ nav {
     nav ul {
         text-align: center;
         text-transform: uppercase;
-        letter-spacing: 2px
+        letter-spacing: 2px;
         
     
     }
@@ -103,16 +103,15 @@ nav {
     nav ul li {
         display: inline;
         margin: 20px;
-        
      }
 
 
     nav a {
-    color: #150734
+    color: #150734;
 }
 
 nav a visited { 
-    color: #150734
+    color: #150734;
     
 }
     
