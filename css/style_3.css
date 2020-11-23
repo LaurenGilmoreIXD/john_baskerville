@@ -71,10 +71,10 @@ header h2{
     
 /*----STYLING LINKS-----*/ 
 a {
-   color: #150734
+   color: #150734;
    text-decoration: none;
 }
-a:hover {
+a hover {
 color: #829FD9;
    border-bottom: 1px dotted;
 
@@ -87,7 +87,7 @@ nav {
         left: 0;
         margin: 0;
         width: 100%;
-        background-color: none;  
+        background-color: #ffffff;  
         padding: 0.5em 0;
         font-size: 1em;
     }
@@ -103,23 +103,22 @@ nav {
     nav ul li {
         display: inline;
         margin: 20px;
-        background: #ffffff;
         
-        
-        
-    }
-    nav a: {
-    color: #ffffff
+     }
+
+
+    nav a {
+    color: #150734
 }
 
-nav a:visited { 
-    color: #ffffff
+nav a visited { 
+    color: #150734
     
 }
     
-nav a:hover {
+nav a hover {
         border-bottom: none;
-        color:#829FD9
+        color:#829FD9;
     }
 
 
