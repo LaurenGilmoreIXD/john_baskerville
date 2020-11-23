@@ -6,10 +6,10 @@ I created my first webpage marking up plain text as an HTML5 page
 
 [Version 2](https://laurengilmoreixd.github.io/john_baskerville/john_baskerville_02.html)
 *09/11/2020*
-Applied my first CSS styling to John_Baskerville.
+Applied my first CSS styling to John_Baskerville
 
 [Version 3](https://laurengilmoreixd.github.io/john_baskerville/baskerville_03.html)
-*19/11/2020* Added Google Fonts
+*19/11/2020* Added Google Fonts 
 
 [Version 4](https://laurengilmoreixd.github.io/john_baskerville/baskerville_04.html)
 *23/11/2020* Added Images
