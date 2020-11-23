@@ -4,7 +4,7 @@ John Baskerville
 *02/11/2020*
 I created my first webpage marking up plain text as an HTML5 page
 
-[Version 2](https://laurengilmoreixd.github.io/john_baskerville/john_baskerville_02)
+[Version 2](https://laurengilmoreixd.github.io/john_baskerville/john_baskerville_02.html)
 *09/11/2020*
 Applied my first CSS styling to John_Baskerville.
 

@@ -10,7 +10,7 @@
 /*----main styling-----*/
 body {
    width: 50%;
-   max-width;700px;
+   max-width; 600px;
    margin: auto;
    background:#E5E5D8;
    color:#006767;
@@ -35,7 +35,7 @@ p,blockquote{
 
 h1{
     font-size: 4em;
-   margin-top: 1em;
+   margin-top: 1.5em;
     margin-bottom: 0.5em;
 }
 
@@ -85,7 +85,7 @@ nav {
         left: 0;
         margin: 0;
         width: 100%;
-        background-color: none;  
+        background-color: #ffffff;  
         padding: 0.5em 0;
         font-size: 1em;
     }
@@ -106,12 +106,12 @@ nav {
         
         
     }
-    nav a: {
-    color: #ffffff
+    nav a {
+    color: #150734;
 }
 
-nav a:visited { 
-    color: #ffffff
+nav a: visited { 
+    color: #150734
     
 }
     

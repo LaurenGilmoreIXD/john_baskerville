@@ -32,7 +32,7 @@ p, blockquote {
 
 h1{
     font-size: 3.2em;
-    margin-top: 1em;
+    margin-top: 1.5em;
     margin-bottom: 0.2em;
 }
 
@@ -75,7 +75,7 @@ a{
     color: #0E558F
 }
 
-a:hover{
+a hover{
     color: #031b2e
 }
 
