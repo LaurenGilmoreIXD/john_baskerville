@@ -20,7 +20,7 @@ body {
 h1, h2 {
     font-weight: normal;
     text-align: center;
-    color: #150734
+    color: #150734;
     
 }
 
@@ -69,7 +69,7 @@ a {
    color: #150734;
    text-decoration: none;
 }
-a:hover {
+a hover {
 color: #829FD9;
 }
     
@@ -80,7 +80,7 @@ nav {
         left: 0;
         margin: 0;
         width: 100%;
-        background-color: none;  
+        background-color: #ffffff;  
         padding: 0.5em 0;
         font-size: 1em;
     }
@@ -88,7 +88,7 @@ nav {
     nav ul {
         text-align: center;
         text-transform: uppercase;
-        letter-spacing: 2px
+        letter-spacing: 2px;
         
     
     }
@@ -102,7 +102,7 @@ nav {
         
     }
     nav a: {
-    color: #ffffff
+    color: #ffffff;
 }
 
 nav a:visited { 
@@ -111,9 +111,9 @@ nav a:visited {
     
 }
     
-nav a:hover {
+nav a hover {
         border-bottom: none;
-        color:#829FD9
+        color:#829FD9;
     }
 
 
