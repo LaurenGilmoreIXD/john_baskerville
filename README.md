@@ -11,6 +11,9 @@ Applied my first CSS styling to John_Baskerville.
 [Version 3](https://laurengilmoreixd.github.io/john_baskerville/baskerville_03.html)
 *19/11/2020* Added Google Fonts
 
+[Version 4](https://laurengilmoreixd.github.io/john_baskerville/baskerville_04.html)
+*23/11/2020* Added Images
+
 
 
 
