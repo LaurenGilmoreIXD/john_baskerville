@@ -69,7 +69,7 @@ header h2{
     
 /*----STYLING LINKS-----*/ 
 a {
-   color: #150734
+   color: #150734;
    text-decoration: none;
 }
 a:hover {
@@ -110,14 +110,14 @@ nav {
     color: #150734;
 }
 
-nav a: visited { 
+nav a visited { 
     color: #150734
     
 }
     
-nav a:hover {
+nav a hover {
         border-bottom: none;
-        color:#829FD9
+        color:#829FD9;
     }
 
 /*-----STYLING TABLE-----*/
