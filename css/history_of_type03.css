@@ -32,8 +32,9 @@ p, blockquote {
 
 h1{
     font-size: 3.2em;
-    margin-top: 1.5em;
+    margin-top: 3em;
     margin-bottom: 0.2em;
+    padding-top: 1em;
 }
 
 h2{
@@ -71,12 +72,18 @@ ul li{
 
 
 /*-----STYLING LINKS-----*/
+
 a{
-    color: #0E558F
+    color: #0E558F;
+    text-decoration: none;
 }
 
-a hover{
-    color: #031b2e
+a:visited{
+    color: #ed3349;
+}
+
+a:hover {
+    color: #020e19;
 }
 
 /*-----NAVIGATION-----*/
