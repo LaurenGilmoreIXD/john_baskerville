@@ -15,8 +15,13 @@ Applied my first CSS styling to John_Baskerville
 *23/11/2020* Added Images
 
 
+CSS Exercise
+=============
+[Version 1](https://laurengilmoreixd.github.io/john_baskerville/version_01.html)
 
+[Version 2](https://laurengilmoreixd.github.io/john_baskerville/version_02.html)
 
+[Version 3](https://laurengilmoreixd.github.io/john_baskerville/version_03.html)
 
 
 
