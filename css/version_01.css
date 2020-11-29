@@ -12,8 +12,7 @@ body{
     width: 40%;
     max-width: 700px;
     background: #ffffff;
-    margin:auto;
-    font-family: serif;
+    margin:auto
     
 }
 
@@ -23,8 +22,6 @@ h1 {
     color: #000000;
     text-align: left;
     font-size: 4em;
-    margin-bottom: 0.2em;
-    margin-top: 0.2em;
 }
 
 h2 {
@@ -40,10 +37,10 @@ h3{
     text-align: left;
     font-size: 1.5em;
     margin-bottom: 1.5em;
-    }
+    
+}
 
- 
-p1 { 
+ p1 { 
     font-size: 1.2em;
     color: #000000;
 }
@@ -53,6 +50,10 @@ p{
     font-size: 1em;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
+}
+
+p::first-letter{
+    font-size: 300%;
 }
 
   
