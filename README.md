@@ -39,3 +39,6 @@ History of Type
 
 [Version 3](https://laurengilmoreixd.github.io/john_baskerville/brief_history_of_type03.html)
 *22/11/2020* Added Google Fonts
+
+[Version4](https://laurengilmoreixd.github.io/john_baskerville/brief_history_of_type04.html)
+*28/11/2020* Added images and table
