@@ -74,7 +74,7 @@ a {
    color: #150734;
    text-decoration: none;
 }
-a hover {
+a:hover {
 color: #829FD9;
    border-bottom: 1px dotted;
 

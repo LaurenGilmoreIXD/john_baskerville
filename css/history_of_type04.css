@@ -165,3 +165,8 @@ footer{
     padding: 1em 0 1em 0;
     margin: 1em 0 1em 0;
 }
+
+/*------ MEDIA QUERIES ----*/
+@media(max-width: 30cm){
+    body{background-color: aqua}
+}
