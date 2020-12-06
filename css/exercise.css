@@ -1,0 +1,81 @@
+/*------CSS RESET-----*/
+
+*{
+    padding: 0;
+    margin:0;
+    font-size:100%;
+    line-height: 1em;
+}
+
+/*-----MAIN STYLING-----*/
+body{
+    width: 40%;
+    max-width: 700px;
+    background: #ffffff;
+    margin:auto
+    
+}
+
+/*-----TYPOGRAPHY-----*/
+h1 {
+    font-weight: normal;
+    color: #000000;
+    text-align: left;
+    font-size: 4em;
+}
+
+h2 {
+    font-weight: normal;
+    color: #000000;
+    text-align: left;
+    font-size: 1em;
+}
+
+h3{
+    font-weight: normal;
+    color: #000000;
+    text-align: left;
+    font-size: 1.5em;
+    margin-bottom: 1.5em;
+    
+}
+
+ p1 { 
+    font-size: 1.2em;
+    color: #000000;
+}
+
+p{
+    color: #000000; 
+    font-size: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+p3{
+    text-decoration-color: #afb8c1;
+}
+
+
+blockquote{
+    font-size: 1.3em;
+    margin-top: 1.5em;
+    color: #afb8c1;
+    hanging-punctuation: first;
+  
+}
+
+blockquote cite {
+    font-size: 0.8em;
+    color: #afb8c1;
+}
+
+  
+hr{
+    border-color: #f80c28;
+}
+
+/*------ VERSION 1 -----*/
+
+.version1 p first letter{
+    font-size: 300%;
+}
